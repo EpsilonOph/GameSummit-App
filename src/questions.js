@@ -221,793 +221,603 @@ export default [
       answer: 'Tədbirdə Marshmello-nun rəqəmsal surəti Fortnite oyunçuları üçün konsert proqramı ilə çıxış edib. Konserti dərhal 10,7 milyon insan izləmişdir.'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: '2013-cü ildə Kanadada, 2014-cü ildən isə dünya miqyasında buraxılan oyun hansıdır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Fortnite',
+        'Among Us',
+        'Hill Climb Racing',
+        'Bloom Beach',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Bloom Beach'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: '2012-ci ildə Finlandiyanın Fingersoft studiyası tərəfindən buraxılmış, tək nəfərli oyun hansıdır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Fortnite',
+        'Roblox',
+        'Hay Day',
+        'Hill Climb Racing',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Hill Climb Racing'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: '“Oyunçu sərt ərazilərdə sürücünü idarə edir, yol boyu sikkələr toplayır və onları avtomobilin təkmilləşdirilməsinə və nəqliyyat vasitələrinin özlərinə xərcləyir, eyni zamanda sürücünün başına və avtomobilin yanacaq mənbəyinə diqqət yetirir.” bu hansı oyundur?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Hill Climb Racing',
+        'Dr.Driving',
+        'Real Car Driving',
+        'Traffic Racer',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Hill Climb Racing'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: '2018-ci ildə hansı oyun Angry Birds oyunundan sonra bir milyard yükləməyə çatan ikinci Fin mobil oyun seriyası oldu?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Tanki Online',
+        'Call of Duty',
+        'Journey',
+        'Hill Climb Racing',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Hill Climb Racing'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Angry Birds oyununun əsas məqsədi hansıdır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Quşları öldürmək',
+        'Donuzları öldürmək',
+        'Yumurtaları toplamaq',
+        'Qaçmaq',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Donuzları öldürmək'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Angry Birds oyununun Rio versiyasında əsas məqsəd nədir?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Həbs olunmuş quşları sərbəst buraxmaq və ya meymunları öldürməkdir',
+        'Quşları həbs etmək',
+        'Quşları öldürmək',
+        'Donuzları öldürmək',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Həbs olunmuş quşları sərbəst buraxmaq və ya meymunları öldürməkdir'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Among Us oyununda neçə rol var?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        '1',
+        '2',
+        '3',
+        '4',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: '2'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Among Us oyununda hansı rollar var?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Məsum və Qatil',
+        'Qaçan və Ölən',
+        'Qatil',
+        'Qatil, Məsum, Ölən',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Məsum və Qatil'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Among Us oyununda hansı xəritələr vardır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Cinayətkarlar',
+        'Məsum və Qatil',
+        'Kosmik Baza, Dirijabl',
+        'Kosmik Gəmi, Qərargah Binası, Planetar Baza, Dirijabl',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Kosmik Gəmi, Qərargah Binası, Planetar Baza, Dirijabl'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: '“2018-ci İlinin Ən Yaxşı İndie Oyunu” mükafatına layiq görülmüş oyun hansıdır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Journey',
+        'Dark Souls',
+        'Celesta',
+        'Hollow Knight',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Celesta'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: '“Qırmızı ölü qurtarma” olaraq tərcümə olan oyun adı hansıdır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'God of War',
+        'Red Dead Redemption',
+        'Into the Breach',
+        'Red Notice',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Red Dead Redemption'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Aşağıdakılardan biri yaradılış tarixinə görə ən keçmişidir?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'God of War',
+        'Into the Breach',
+        'Subway Surfers',
+        'Tanki Online',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'God of War'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'God of War oyununa aid xüsusiyyətlər aşağıdakılardan hansıdır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Simulyasiya janrına aid oyundur',
+        'Çox  nəfərli oyundur',
+        'Yunan mifologiyasına söykənən macera-aksiya növündə olan oyunudur',
+        '“2015-ci ilin ən yaxşı oyunu” mükafatı alıb',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Yunan mifologiyasına söykənən macera-aksiya növündə olan oyunudur'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Yalnız Netflix üzvlərinin oynaya biləcəyi oyun hansıdır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'İnto the Beach',
+        'God of War',
+        'Fortnite',
+        'PUBG',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'İnto the Beach'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Aşağıdakılardan hansı döyüş-macəra oyunudur?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Red Dead Redemption',
+        'God of War',
+        'Candy Crush',
+        'Among Us',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Red Dead Redemption'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: '2018-ci ildə Bandai Namco və Nintendo tərəfindən hazırlanmış alternativ döyüş video oyunu hansıdır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Forza Horizon',
+        'Super Smash Bros. Ultimate',
+        'Among Us',
+        'Roblox',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Super Smash Bros. Ultimate'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Forza Horizon:',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Yarış oyunudur',
+        'Döyüş oyunudur',
+        'Macəra oyunudur',
+        'Aksiya-macəra oyunudur',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Yarış oyunudur'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: '“Quarble” personajı olan oyun hansıdır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Subway Surfers',
+        'Among Us',
+        'The Messenger',
+        'Celesta',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'The Messenger'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: '“Sui-qəsdçinin inancı” kimi tərcümə olunan oyun adı hansıdır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Assassin”s Creed',
+        'Forza Harison',
+        'İnto the Breach',
+        'Celesta',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Assassin”s Creed'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Ginnesin rekordlar kitabına dünyada ən çox satılan atıcı seriyası kimi daxil edilmişdir oyun hansıdır?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'God of War',
+        'Call of Duty',
+        'Journey',
+        'Celesta',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Call of Duty'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Aşağıdakılardan hansı xüsusiyyət League of Legends oyununa aiddir?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Pullu oyundur',
+        'Ən yeni oyunlardandır',
+        'Macəra oyunudur',
+        'Döyüş oyunudur',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Döyüş oyunudur'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Minecraft-ın yaradıcısı kimdir?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Markus Persson',
+        'Elon Musk',
+        'Steve Robbinson',
+        'İnfinity Ward',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Markus Persson'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Counter-Strike 2 hansı şirkət tərəfindən hazırlanıb?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Valve Corporation',
+        'Mojang Studios',
+        'Larian Studios',
+        'Psyonix',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Valve Corporation'
     },
     {
-      text: 'Can you identify what JSX is?',
+      text: 'Left 4 Dead 2 hansı mühərrik üzərində yaradılıb?',
       answers: [
-        'A JavaScript extension that adds HTML-like syntax to JavaScript.',
-        'A JavaScript library for building dynamic user interfaces.',
-        'A specific HTML version that was explicitly created for React.',
-        'A tool for making HTTP requests in a React application.',
+        'Source',
+        'Unreal Engine',
+        'Unity',
+        'CryEngine3',
       ],
-      answer: 'A JavaScript extension that adds HTML-like syntax to JavaScript.'
+      answer: 'Source'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Aşağıdakı hansı oyunlardan biri “Counter-Strike” oyununun özəlliklərinə bənzəyir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Valorant',
+        'NBA 2K',
+        'The Elder Scrolls',
+        'Witcher',
       ],
-      answer: 'Celesta'
+      answer: 'Valorant'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Bunlardan biri “Dota 2” oyununa aiddir:',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Pulsuz oyundur, Steam üzərindən oynanılır',
+        'Simulyasiya janrındadır',
+        'Təknəfərli oyundur',
+        '2015-ci ildə oyun istifadəyə verilib',
       ],
-      answer: 'Celesta'
+      answer: 'Pulsuz oyundur, Steam üzərindən oynanılır'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: '“Dota 2” oyununu idarə etmək üçün nədən istifadə olunur?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Gamepad',
+        'Kompyuter klaviaturası və siçan',
+        'Telefon ekranı',
+        'Yalnız siçan',
       ],
-      answer: 'Celesta'
+      answer: 'Kompyuter klaviaturası və siçan'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Biri “World of Warcraft” oyununun personajıdır:',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Dwarf',
+        'Bjarki',
+        'Darryl',
+        'Koral',
       ],
-      answer: 'Celesta'
+      answer: 'Dwarf'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Təzə Counter-Strike 2 güncəlləməsində, Premierde Dust2 xəritəsini əlavə eləyiblər amma başqa bir xəritə ilə əvəzlənib. Əvəzlənən xəritə hansıdır?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Overpass',
+        'Nuke',
+        'Mirage',
+        'Vertigo',
       ],
-      answer: 'Celesta'
+      answer: 'Overpass'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: '“Grand Theft Auto V” oyununun hekayəsi hansı ştatda cərəyan edir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'San-Fransisko',
+        'Kaliforniya',
+        'Nyu-York',
+        'San-Andreas',
       ],
-      answer: 'Celesta'
+      answer: 'San-Andreas'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Hansı “Grand Theft Auto V” oyununa aiddir:',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Mobil oyundur',
+        '2003-cü ildə bu oyun istehsal olunub',
+        'Oyunun satışı Tetris və Minecraft oyunlarının birlikdə olan satış sayından daha çoxdur',
+        'Oyunda missiyalar yoxdur',
       ],
-      answer: 'Celesta'
+      answer: 'Oyunun satışı Tetris və Minecraft oyunlarının birlikdə olan satış sayından daha çoxdur'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Bunlardan biri təknəfərli oyundur:',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Cyberpunk 2077',
+        'GTA',
+        'Fortnite',
+        'Call of Duty',
       ],
-      answer: 'Celesta'
+      answer: 'Cyberpunk 2077'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: '“Cyberpunk 2077” oyununun  yaradıcısı kimdir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Mike Pondsmith',
+        'İnfinity Ward',
+        'David Baszucki',
+        'Erik Cassel',
       ],
-      answer: 'Celesta'
+      answer: 'Mike Pondsmith'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Payday oyunu neçə seriyadan ibarətdir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        '1',
+        '2',
+        '3',
+        '4',
       ],
-      answer: 'Celesta'
+      answer: '2'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Blizzard Entertainment tərəfindən yaradılan oyun hansıdır?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Roblox',
+        'God of War',
+        'Hay Day',
+        'Overwatch',
       ],
-      answer: 'Celesta'
+      answer: 'Overwatch'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Overwatch oyununa aid deyil:',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Blizzard Entertainment tərəfindən yaradılıb',
+        'Tək nəfərlik oyundur',
+        'Oyun 2016-cı ilin may ayında PlayStation 4 üçün çıxış etmişdir',
+        'Bu oyun aksiyon-macəra janrındadır',
       ],
-      answer: 'Celesta'
+      answer: 'Bu oyun aksiyon-macəra janrındadır'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Bunlardan biri “Red Dead Redemption” oyununa aid deyil:',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Oyununun 3 seriyası var',
+        'Döyüş-macəra oyunudur',
+        '2018-ci ildə satışa çıxarılmışdır',
+        'Rockstar Game tərəfindən hazırlanmışdır',
       ],
-      answer: 'Celesta'
+      answer: 'Oyununun 3 seriyası var'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Oyunun adını bitirin: Tom Clancy’s …',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Rainbow Six Siege',
+        'Bravo Six',
+        'Payday',
+        'Ghost’s Revenge',
       ],
-      answer: 'Celesta'
+      answer: 'Rainbow Six Siege'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Counter-Strike 2 oyununda, “Ace” nə deməkdir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        '1 oyunçu qarşı komandanı tam öldürəndə',
+        'C4 qoyulanda',
+        'Xəritənin pozisiyasıdı',
+        'Komandada heç kim ölməyəndə',
       ],
-      answer: 'Celesta'
+      answer: '1 oyunçu qarşı komandanı tam öldürəndə'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Hansı oyun Yaponiyanın feodal dövründə qurulmuş bir samuray hekayəsindən bəhs edir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Persona 5',
+        'Ghost of Tsushima',
+        'Journey',
+        'Yakuza 0',
       ],
-      answer: 'Celesta'
+      answer: 'Ghost of Tsushima'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Uncharted: Drake’s Fortune-də oyun harada kecir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Amazon ovalığına və Cənubi Amerikanın sahillərində',
+        'Çinin ən cənubi ərazisində yerləşən Tibet yaylasinda',
+        'Kalimantandakı meşələrə və Nepaldakı şəhər',
+        'Londonun və Kolumbiyanın küçələrində',
       ],
-      answer: 'Celesta'
+      answer: 'Amazon ovalığına və Cənubi Amerikanın sahillərində'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Uncharted seriyasının son əsas oyunu hansıdır:',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Uncharted: The Lost Legacy',
+        'Uncharted: Drake's Fortune',
+        'Uncharted 2: Among Thieves',
+        'Uncharted 4: A Thief's End',
       ],
-      answer: 'Celesta'
+      answer: 'Uncharted 4: A Thief's End'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Roblox istifadəçilərinə hansı xüsusiyyətləri təqdim edir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Oyunların yaradılması və paylaşılması',
+        'Oyun oynamaq',
+        'Çoxnəfərli oyun',
+        'Hamısı',
       ],
-      answer: 'Celesta'
+      answer: 'Hamısı'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Shadow Fight oyunlarında personajların döyüş üslubları və bacarıqları hansı xüsusiyyətdən asılıdır?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Silah seçimi',
+        'Səviyyə',
+        'Avadanlıq',
+        'Personajın kölgəsi',
       ],
-      answer: 'Celesta'
+      answer: 'Personajın kölgəsi'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Modern Combat  seriyasında oyunçular hansı növ missiyalarda döyüşürlər?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Hərbi müharibələr',
+        'Kosmos döyüşləri',
+        'Terrorla mübarizə',
+        'Fantaziya sərgüzəştləri',
       ],
-      answer: 'Celesta'
+      answer: 'Terrorla mübarizə'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Bunlardan hansi Modern Combat oyununun il  buraxilan oyunudur?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Modern Combat:Sandstorm',
+        'Modern Combat:Black Pegasus',
+        'Modern Combat:Fallen Nation',
+        'Modern Combat:Zero Hour',
       ],
-      answer: 'Celesta'
+      answer: 'Modern Combat:Sandstorm'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Bunlardan hansı Dota oyununda zəka personajlarına aid deyil?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Zeus',
+        'Tinker',
+        'Lina',
+        'Riki',
       ],
-      answer: 'Celesta'
+      answer: 'Riki'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Dota oyununda qəhrəmanlar xüsusiyyətlərinə  görə neçə yerə ayrılır?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        '1',
+        '2',
+        '3',
+        '4',
       ],
-      answer: 'Celesta'
+      answer: '3'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Clash of Clans oyununda klan savaşları neçə gün davam edir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        '1',
+        '2',
+        '3',
+        '4',
       ],
-      answer: 'Celesta'
+      answer: '3'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Clash of Clans oyununda neçə əsgər kampusu ola bilər?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        '4',
+        '5',
+        '6',
+        '7',
       ],
-      answer: 'Celesta'
+      answer: '7'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Detroid Become Human oyunu hansı formata sahib oyundur?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Hekayədə iki seçim olur, oyun o seçimlərdən birini seçir və oyun davam edir',
+        'Hekayədə müxtəlif seçimlər olur, oyunçu istədiyini seçir və oyun davam edir',
+        'Seçim olmur və oyun bir hekayə üzərində davam edir',
+        'Oyunun verdiyi seçimləri oyunçu dəyişdirir və oyun davam edir',
       ],
-      answer: 'Celesta'
+      answer: 'Hekayədə müxtəlif seçimlər olur, oyunçu istədiyini seçir və oyun davam edir'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Bu personajlardan hansı Spider- Man-in düşmənlərindən deyildir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Green Goblin',
+        'Venom',
+        'DR.Octopus',
+        'Brainiac',
       ],
-      answer: 'Celesta'
+      answer: 'Brainiac'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Marvel Spider-Man 2  video oyunu neçənci ildə buraxılmışdır?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        '2020',
+        '2021',
+        '2022',
+        '2023',
       ],
-      answer: 'Celesta'
+      answer: '2023'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Super Mario oyununda Marionun qardaşının adı nədir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Luici',
+        'Bouzer',
+        'Kara',
+        'Marcus',
       ],
-      answer: 'Celesta'
+      answer: 'Luici'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Super Mario hansı oyun növündədir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Platform',
+        'Yarış',
+        'RPG',
+        'Tapmaca',
       ],
-      answer: 'Celesta'
+      answer: 'Yarış'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Sonic the Hedgehog oyununda Sonic-in can qazanması üçün qızıl üzüklərin sayı neçə olmalıdır?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        '50',
+        '100',
+        '150',
+        '200',
       ],
-      answer: 'Celesta'
+      answer: '100'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Pokemon Go oyunu hansı platformada oynanılır?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Xbox',
+        'Android və İOS',
+        'Android',
+        'İOS',
       ],
-      answer: 'Celesta'
+      answer: 'Android və İOS'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Mortal Combat 1 oyunu nə vaxt buraxılmışdır?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        '20 mart 2006',
+        '12 dekabr2010',
+        '14 sentyabr 2023',
+        '6 iyun 2022',
       ],
-      answer: 'Celesta'
+      answer: '14 sentyabr 2023'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Star Wars oyununda Darth Vader personajının əsl adı nədir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Usta Yoda',
+        'Ahsoka',
+        'Palpatine',
+        'Anakin Skywalker',
       ],
-      answer: 'Celesta'
+      answer: 'Anakin Skywalker'
     },
      {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
+      text: 'Mortal Combat oyununda ildırım tanrısının adı nədir?',
       answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
+        'Raiden',
+        'Johnny Cage',
+        'Scorpion',
+        'Goro',
       ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
-    },
-     {
-      text: 'Aşağıdakılardan biri tək nəfərli oyundur:',
-      answers: [
-        'PUBG',
-        'Boom Beach',
-        'Among Us',
-        'Celesta',
-      ],
-      answer: 'Celesta'
+      answer: 'Raiden'
     },
 ];
